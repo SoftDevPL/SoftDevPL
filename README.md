@@ -18,7 +18,7 @@
 
 - 💻 Spigot resources are available at [https://www.spigotmc.org/resources/authors/zibi.667650/](https://www.spigotmc.org/resources/authors/zibi.667650/)
 
-- 🎓 Second github account only spigot [https://github.com/SoftDevPL](https://github.com/SoftDevPL)
+- 🎓 Main github account [https://github.com/ZMizgalski](https://github.com/ZMizgalski)
 
 - ⚡ Fun fact **I'm a freediver**
 
